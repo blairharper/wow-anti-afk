@@ -6,6 +6,10 @@ Simple anti afk script in python3 for world of warcraft, to avoid queues given r
 - Add python3 to your "Path" environment variable (https://datatofish.com/add-python-to-windows-path/)
 - Clone repo or copy/pastw wow.py to wow.py on your local storage
 
+# Dependencies
+- pyautogui `pip3 install pyautogui`
+- pywin32 `pip3 install pywin32` (_YOU WILL PROBABLY GET AN ERROR WHEN YOU RUN THIS, BUT IT ACTUALLY INSTALLS JUST FINE_)
+
 # Usage
 - Open command prompt (cmd.exe in search bar)
 - Navigate to directory containing wow.py
